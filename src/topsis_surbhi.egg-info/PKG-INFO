@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: topsis-abhishek-bawa
+Version: 1.0.1
+Summary: A command line package to calculate topsis score and rank
+Home-page: https://github.com/abhibawag/Topsis_Python_Package
+Author: Abhishek Bawa
+Author-email: abhibawa357@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/abhibawag/Topsis_Python_Package/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+This is a command line tool to calculate Topsis Score and Rank 
+https://github.com/abhibawag/Topsis_Python_Package
+Author : Abhhishek Bawa
+github: https://github.com/abhibawag/
+E-mail: abhibawa357@gmail.com
+
