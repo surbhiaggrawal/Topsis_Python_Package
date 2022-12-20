@@ -9,6 +9,9 @@ https://test.pypi.org/project/topsis-surbhi/
 ## Description: 
 This is a command line tool to calculate Topsis Score and Rank
 
+## Screenshot of pypi Test Account:
+![image](https://user-images.githubusercontent.com/63094759/208642887-964d06a9-b0ae-43aa-81a2-c3be50ad084b.png)
+
 ## Screenshot of the code:
 ### *********************************************************************************************
 ![image](https://user-images.githubusercontent.com/63094759/208639761-8ec583d2-1ad7-417b-ab2e-81f01c7dcf6f.png)
@@ -19,7 +22,5 @@ This is a command line tool to calculate Topsis Score and Rank
 ### *********************************************************************************************
 
 ### Author : Surbhi
-
 ### Roll No: 101903742
-
 ### E-mail: surbhiagg143@gmail.com
