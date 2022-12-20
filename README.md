@@ -1,6 +1,7 @@
 ## Title: Topsis Python Package
 
-## Description: This is a command line tool to calculate Topsis Score and Rank
+## Description: 
+This is a command line tool to calculate Topsis Score and Rank
 
 ## Screenshot of the code:
 ![image](https://user-images.githubusercontent.com/63094759/208639761-8ec583d2-1ad7-417b-ab2e-81f01c7dcf6f.png)
