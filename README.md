@@ -1,5 +1,11 @@
 ## Title: Topsis Python Package
 
+## Package Istalling command: 
+pip install -i https://test.pypi.org/simple/ topsis-surbhi
+
+## Live Link:
+https://test.pypi.org/project/topsis-surbhi/
+
 ## Description: 
 This is a command line tool to calculate Topsis Score and Rank
 
