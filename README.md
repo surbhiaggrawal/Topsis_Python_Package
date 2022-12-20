@@ -11,8 +11,8 @@ This is a command line tool to calculate Topsis Score and Rank
 ![image](https://user-images.githubusercontent.com/63094759/208639954-b238d7bd-cdd6-4496-8838-c5e7e477df41.png)
 
 
-# Author : Surbhi
+### Author : Surbhi
 
-# Roll No: 101903742
+### Roll No: 101903742
 
-# E-mail: surbhiagg143@gmail.com
+### E-mail: surbhiagg143@gmail.com
